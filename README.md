@@ -4,6 +4,8 @@ A basic sample frontend for [ass]. **Do not use this repository as-is**, use it 
 
 ## How to use this repository
 
+Follow the wiki primarily, but check here for information when you reach the sections each step links.
+
 1. Click [**Use this template**][generate repo] (instead of [creating a new blank repo][new repo])
     ![use this template]
 2. [Add your repo to your ass branch][add as submodule]
