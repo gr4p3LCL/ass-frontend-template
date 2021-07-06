@@ -9,7 +9,7 @@ Follow the wiki primarily, but check here for information when you reach the sec
 1. Click [**Use this template**][generate repo] (instead of [creating a new blank repo][new repo])
     ![use this template]
 2. [Add your repo to your ass branch][add as submodule]
-3. [Run `npm init && npm i express`][npm init] to overwrite the template sample data for `package.json` & `package-lock.json`
+3. [Run `npm init && npm i`][npm init] to overwrite the template sample data for `package.json` & `package-lock.json`
 
 
 [ass]: https://github.com/tycrek/ass
